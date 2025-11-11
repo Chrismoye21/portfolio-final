@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Christopher Moye</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body style="background-color:white;">
+    <header style="background-color:white">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="resume.html">Resume</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="contact.html">Contact</a>
+        <hr>
+    </header>
+<h1>Welome</h1>
+
+
+<img class="homeimg" src="images/blackandwhitetree.jpg" alt="Black and White Tree"/>
+<img class="homeimg" src="images/dinersign.jpg" alt="Dinner Sign"/>
+<img class="homeimg" src="images/paintingwlight.jpg" alt="Painting With Light"/>
+<footer>
+    <hr>
+    Chris Moye Photography<br>
+    Email:Christophersmoye@gmail.com<br>
+    &copy;copyright reserved 2024
+</footer>
+
+</body>
+</html>
