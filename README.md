@@ -5,8 +5,9 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body style="background-color:white;">
-    <header style="background-color:white">
+<style>
+body {background-color: lightgrey;}
+</style>
         <a href="index.html">Home</a>
         <a href="about.html">About</a>
         <a href="resume.html">Resume</a>
