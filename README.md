@@ -14,7 +14,7 @@
         <a href="contact.html">Contact</a>
         <hr>
     </header>
-<h1>Welome</h1>
+<h1>Welome to Chris Moye Photography</h1>
 
 
 <img class="homeimg" src="images/blackandwhitetree.jpg" alt="Black and White Tree"/>
