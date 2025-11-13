@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Christopher Moye</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<style>
+body {background-color: lightcyan;}
+</style>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="resume.html">Resume</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="contact.html">Contact</a>
+        <hr>
+
+
+<h3>My name is Chris and here is my story</h3>
+<p>Before I started my photography career, I was a competitive swimmer. Once I graduated highschool I ended my athlestic career and took intrest in photography. I have now been doing photography for 2 years and going. Most of my clients are High Point Universiy students. I do take jobs and clients outside of the university.</p>
+<p>Capturing your legacy starts here!</p>
+<p>We are out of highpoint North Carolina.</p>
+<p>Our job is to make your life easier by providing good photos for less.</p>
+<p>At Chris Moye Photography we aim to make your experience easy and fun. We put fun into photography by doing serious pictures but also fun pictures. We will try to make your experience an amazing one no matter what the occasion is.</p>
+<p>Our specialties are:</p>
+<p>Cars/Motorcycles, portraits, formal, and special events.</p>
+
+
+<img src="images/chrisprofessionalpic.jpg" alt="Chris Suit Picture"/>
+<img src="images/chriscasualpic.jpg" alt="Chris Casual Pic"/>
