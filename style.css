@@ -1,0 +1,48 @@
+img{ 
+ height: 400px; 
+ width: 300px;
+ border-radius: 30;
+ border: solid black 10px;
+}
+
+div.halloween{
+    border: dotted red 5px;
+}
+
+div.formal1{
+    height: 400; width: 800;
+}
+
+
+
+#homeimg{
+ height: 100px;
+ width: 100px;   
+}
+
+body {background-color: lightgray;}
+h1   {color: black;}
+
+    
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+}
+
+
+ul li a {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.logo img {
+height: 80px;
+width: auto; 
+}
+
