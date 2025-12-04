@@ -46,3 +46,7 @@ height: 80px;
 width: auto; 
 }
 
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
